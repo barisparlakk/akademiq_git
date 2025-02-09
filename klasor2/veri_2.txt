@@ -1,0 +1,4 @@
+ogr1,ogrno,sinif
+baris,001,307
+mustafa,002,308
+tuna,003,307
